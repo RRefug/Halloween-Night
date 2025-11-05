@@ -9,8 +9,10 @@ A small 2D pixel game that I created using GoDot, IbisPaint, GDScript (similar t
 It took me 3 days to finalize everything, but I made this Halloween game for my little sister since she loves Halloween so much and I know she won't be a kid forever. 
 I liked the idea and learned how to do everything as best as I could. 
 
+
+I brushed up on collisions, sprites, animations, coding, and new features that the GoDot engine uses. Very similar to Unity, but slightly different.
 <img width="1261" height="749" alt="overview" src="https://github.com/user-attachments/assets/139c724b-d1f2-4e6f-a308-0bd899e8b5ee" />
-<br> I brushed up on collisions, sprites, animations, coding, and new features that the GoDot engine uses. Very similar to Unity, but slightly different. <br/>
+
 <img width="240" height="211" alt="Animation sheet" src="https://github.com/user-attachments/assets/3fd2e14f-6d8c-4294-a170-aae358979b45" />
 <img width="372" height="344" alt="scripts" src="https://github.com/user-attachments/assets/03a5dce0-455a-4ac5-bca7-4a13723e8d23" />
 
@@ -20,6 +22,5 @@ Had lots of fun and I'm glad it came out exactly how I envisioned it! Sadly, no 
 Feel free to play it for yourself if you want to by navigating to the releases page and downloading the windows exe file from there. 
 I'm pretty sure right now I only have it for windows, sorry Mac users!
 
-Here's the link just in case:
-
+Here's the link just in case: https://github.com/RRefug/Halloween-Night/releases/tag/v.01
 
