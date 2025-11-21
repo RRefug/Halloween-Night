@@ -23,9 +23,9 @@ Feel free to play it for yourself if you want to by navigating to the releases p
 I'm pretty sure right now I only have it for windows, sorry Mac users!
 
 Controls:
-W - Move Up
-A - Move Left
-S - Move Down
+W - Move Up,
+A - Move Left,
+S - Move Down,
 D - Move right
 
 Here's the link just in case: https://github.com/RRefug/Halloween-Night/releases/tag/v.01
